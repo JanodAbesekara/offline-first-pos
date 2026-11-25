@@ -1,0 +1,17 @@
+{
+  "name": "ATELIER // Boutique POS",
+  "short_name": "Atelier POS",
+  "description": "Offline-first boutique clothing POS with resilient sync",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F4EF",
+  "theme_color": "#181715",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
