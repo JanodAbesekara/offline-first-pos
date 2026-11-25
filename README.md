@@ -45,3 +45,5 @@ Run `supabase/schema.sql` in your Supabase SQL Editor. It creates `products`, `v
 
 - Add Supabase Auth + Row-Level Security (RLS) policies per store/cashier before multi-user production rollout.
 - Add incremental catalog pull-sync (`updated_at > last_pull`) when multiple terminals edit prices centrally.
+
+Host URl:- https://offline-first-6ke7q6u62-janodabesekaras-projects.vercel.app/
